@@ -5,7 +5,7 @@ Status options: Not Started, Converting, Clean up, Uploading, Complete
   
 | Table # | github handle | Status      | Date Complete |
 |---------|---------------|-------------|---------------|
-| 95      | blordcastillo | Not Started |               |
+| 95      | blordcastillo | Clean Up    |               |
   
 You can also do a data check. Please log those below. Multiple people can data check a table.  
   
