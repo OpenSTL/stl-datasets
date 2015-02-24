@@ -1,7 +1,7 @@
 #Metadata
-| Table Number | Category | Title | Description | Source |  
-|--------------|----------|-------|-------------|--------|
-| 95 | Municipal Warrants | Warrants Issued and Outstanding | Detailed account of warrants issued and warrants outstanding for municipal courts. | Municipal Division, FY 2014 |  
+| Table Number | Category | Category Descriptoin | Title| Source |  
+|--------------|----------|----------------------|------|--------|
+| 95 | Municipal Warrants | Detailed account of warrants issued and warrants outstanding for municipal courts. | Warrants Issued and Outstanding | Municipal Division, FY 2014 |  
 
   
 ## Footnotes  
